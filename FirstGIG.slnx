@@ -15,7 +15,4 @@
     <Project Path="src/Modules/Identity/FirstGIG.Identity.Domain/FirstGIG.Identity.Domain.csproj" />
     <Project Path="src/Modules/Identity/FirstGIG.Identity.Infrastructure/FirstGIG.Identity.Infrastructure.csproj" />
   </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/FirstGIG.Identity.UnitTests/FirstGIG.Identity.UnitTests.csproj" />
-  </Folder>
 </Solution>

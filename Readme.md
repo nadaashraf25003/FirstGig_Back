@@ -59,9 +59,6 @@ FirstGIG/
 │           ├── FirstGIG.Identity.Application/       # Register, Login, RefreshToken, VerifyEmail, ForgotPassword, ResetPassword
 │           ├── FirstGIG.Identity.Infrastructure/    # IdentityDbContext, JwtService, BCrypt, MailKit, UserRepository
 │           └── FirstGIG.Identity.Api/               # AuthController (6 endpoints)
-│
-└── tests/
-    └── FirstGIG.Identity.UnitTests/                 # xUnit, FluentAssertions, NSubstitute
 ```
 
 ---
