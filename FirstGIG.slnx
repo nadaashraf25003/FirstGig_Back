@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/FirstGIG.BuildingBlocks.Application/FirstGIG.BuildingBlocks.Application.csproj" />
+    <Project Path="src/BuildingBlocks/FirstGIG.BuildingBlocks.Domain/FirstGIG.BuildingBlocks.Domain.csproj" />
+    <Project Path="src/BuildingBlocks/FirstGIG.BuildingBlocks.Infrastructure/FirstGIG.BuildingBlocks.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Host/">
+    <Project Path="src/Host/FirstGIG.Host/FirstGIG.Host.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/FirstGIG.Identity.Api/FirstGIG.Identity.Api.csproj" />
+    <Project Path="src/Modules/Identity/FirstGIG.Identity.Application/FirstGIG.Identity.Application.csproj" />
+    <Project Path="src/Modules/Identity/FirstGIG.Identity.Domain/FirstGIG.Identity.Domain.csproj" />
+    <Project Path="src/Modules/Identity/FirstGIG.Identity.Infrastructure/FirstGIG.Identity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FirstGIG.Identity.UnitTests/FirstGIG.Identity.UnitTests.csproj" />
+  </Folder>
+</Solution>
